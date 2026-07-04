@@ -1,89 +1,196 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Manpreet+Kour;Computer+Science+Engineering+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Learner;LeetCode+Problem+Solver" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Manpreet Kour</h1>
-<h3 align="center">Computer Science Engineering Student | Cybersecurity Enthusiast | Full Stack Developer | AI/ML Learner</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | Cybersecurity Enthusiast | AI/ML Learner | Full Stack Developer
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manpreet-kour-7560a2321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/manpreet-kour-7560a2321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/manpreetkour_1o/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="https://leetcode.com/u/manpreetkour_1o/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-  <a href="mailto:mpk100805@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:mpk100805@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ManpreetKour1o">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ManpreetKour1o&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/CGPA-9.11-success?style=flat"/>
-<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-blue?style=flat"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;AI%2FML+Learner;React+Developer;Python+Developer;Future+Software+Engineer;Problem+Solver"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ManpreetKour1o&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CGPA-9.11-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Branch-CSE%20(CS%26IoT%26Blockchain)-purple?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 Computer Science Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
+👩‍💻 I'm **Manpreet Kour**, a Computer Science undergraduate at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**, pursuing **CSE (Cybersecurity, IoT & Blockchain Technology)** with a **CGPA of 9.11/10**.
 
-💻 Passionate about **Software Development, Cybersecurity, Artificial Intelligence, and Full Stack Web Development**
+I enjoy building secure, intelligent, and scalable software solutions by combining **Cybersecurity**, **Artificial Intelligence**, and **Full Stack Development**.
 
-🌱 Currently learning **Advanced Data Structures & Algorithms, Backend Development, System Design, and Machine Learning**
+---
 
-🎯 Aspiring to become a **Software Engineer** who builds scalable, secure, and impactful software solutions.
+## 🚀 Currently
 
-⚡ I enjoy solving coding problems, participating in hackathons, and continuously exploring new technologies.
+🔭 Working on
+
+- MELORA – AI-Based Skincare Analysis Website
+- AI-powered Healthcare Assistant
+- Cybersecurity & Web Security Projects
+
+🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- React.js
+- Artificial Intelligence & Machine Learning
+- Blockchain Technology
+- Cloud Computing
+
+👯 Looking to Collaborate On
+
+- AI/ML Projects
+- Cybersecurity Projects
+- Full Stack Web Applications
+- Open Source
+
+🤝 Looking for Help With
+
+- AWS Cloud
+- DevOps
+- System Design
+- Competitive Programming
+
+💬 Ask Me About
+
+- Python
+- React.js
+- Cybersecurity
+- SQL
+- MongoDB
+- Machine Learning
+- OOP
+
+⚡ Fun Fact
+
+I love solving real-world problems using AI and Cybersecurity while continuously learning new technologies.
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+
 </p>
 
-## 🎨 Frontend
+---
+
+## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
 </p>
 
-## ⚙ Backend
+---
+
+## ⚙ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
 </p>
 
-## 🗄 Database
+---
+
+## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 </p>
 
-## 🔐 Cybersecurity & AI
+---
 
-- OWASP ZAP
-- Burp Suite
-- ELK Stack
-- Splunk SIEM
-- Scikit-Learn
-- Pandas
-- NumPy
-- Machine Learning
-- Cryptography
-- Network Security
-
-## 🛠 Tools
+## 🔐 Cybersecurity
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
 </p>
 
 ---
@@ -92,152 +199,383 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManpreetKour1o&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=ManpreetKour1o&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ManpreetKour1o&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetKour1o&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 📈 GitHub Activity Graph
-
-[![Manpreet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManpreetKour1o&theme=tokyo-night)](https://github.com/ManpreetKour1o)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ManpreetKour1o&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
-# 💻 Competitive Programming
-
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/manpreetkour_1o?theme=dark&font=Baloo"/>
+<img src="https://streak-stats.demolab.com?user=ManpreetKour1o&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+# 💼 Internship Experience
+
+## 🔐 Cybersecurity Intern
+### Future Interns | Jul 2025 – Aug 2025
+
+- 🔍 Performed Vulnerability Assessment & Penetration Testing (VAPT)
+- 🛡️ Identified SQL Injection, Cross-Site Scripting (XSS), and CSRF vulnerabilities
+- ⚙️ Used **OWASP ZAP** and **Burp Suite**
+- 📊 Analyzed security events using **Splunk SIEM** and **ELK Stack**
+- 📝 Prepared incident response reports and supported remediation efforts
+
+---
+
+## 🤖 AI/ML & Data Science Intern
+### Academy of Skill Development (AICTE) | Jul 2025 – Aug 2025
+
+- 💳 Developed a **Credit Card Fraud Detection System**
+- 🤖 Implemented anomaly detection and classification algorithms
+- 🐍 Built the solution using **Python, Pandas, NumPy, and Scikit-Learn**
+- 🗄️ Performed SQL-based data preprocessing and feature engineering
+- ⭐ Awarded an **A++ Grade** for project performance
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌸 Melora – AI-Based Skincare Analysis Website
+## 🩺 Virtual Healthcare Assistant
 
-🧴 AI-powered skincare recommendation platform that analyzes user skin images and provides personalized skincare suggestions.
+**Python • AI • Machine Learning • SQL**
 
-**Tech Stack:** React • JavaScript • HTML • CSS • Python • MongoDB
+✔ AI-powered disease prediction system
+
+✔ Built supervised Machine Learning models
+
+✔ Data preprocessing & feature engineering
+
+✔ Hyperparameter tuning for improved prediction accuracy
+
+✔ Used Pandas, NumPy, Scikit-Learn & Matplotlib
 
 ---
 
-## 💳 Credit Card Fraud Detection System
+## 🌸 MELORA – AI-Based Skincare Analysis Website
 
-Machine Learning model for fraud detection using anomaly detection, feature engineering, and classification algorithms.
+**React.js • Python • MongoDB • HTML • CSS • JavaScript**
 
-**Tech Stack:** Python • SQL • Scikit-Learn • Pandas • NumPy
+✔ Full-stack AI-powered skincare analysis platform
 
----
+✔ Personalized skincare recommendations
 
-## 🏥 Virtual Healthcare Assistant
+✔ AI-based skin image analysis
 
-AI-powered healthcare assistant capable of predicting diseases based on symptoms using supervised machine learning.
+✔ Secure user authentication
 
-**Tech Stack:** Python • Machine Learning • SQL • Pandas • NumPy • Matplotlib
+✔ MongoDB database integration
+
+✔ Responsive and modern UI
 
 ---
 
 ## ⚡ IoT-Based Human Energy Harvesting System
 
-Smart embedded system for real-time human energy harvesting and monitoring using IoT technologies.
+**IoT • Embedded Systems**
 
-**Tech Stack:** IoT • Embedded Systems • Computer Networks
+✔ Designed a smart energy harvesting device
 
----
+✔ Integrated embedded sensors for monitoring
 
-# 💼 Internship Experience
+✔ Enabled real-time data transmission
 
-### 🔐 Cybersecurity Intern
-
-- Conducted vulnerability assessments using OWASP ZAP and Burp Suite.
-- Identified SQL Injection, XSS, and CSRF vulnerabilities.
-- Worked with ELK Stack and Splunk SIEM for security monitoring.
-
-### 🤖 AI/ML & Data Science Intern
-
-- Built a Credit Card Fraud Detection System using Machine Learning.
-- Performed data preprocessing and feature engineering using SQL and Python.
+✔ Applied Computer Networks concepts for communication
 
 ---
 
-# 🏆 Certifications
+## 💳 Credit Card Fraud & Anomaly Detection
 
-- 🥇 Salesforce Certified Agentforce Specialist
-- ☁️ Oracle OCI AI Foundations Associate
-- 📊 Alteryx Designer Core Certified
-- 🐍 Infosys Springboard – Python for Beginners
+**Python • SQL • Machine Learning**
 
----
+✔ Fraud Detection using Machine Learning
 
-# 🏅 Achievements
+✔ Feature Engineering & Data Preprocessing
 
-🏆 Hack India 2025 Participant
+✔ Classification Models
 
-🚀 Amazon ML Challenge 2025 Participant
+✔ SQL-based Data Analysis
 
-💻 Hacktoberfest CBIT Participant
-
-🏀 Shruthi Sports Women's Champion – 2026
-
-🤝 Coordinator – Chaitanya Spandana
-
-💰 Treasurer – NextIoT
+✔ Improved prediction accuracy through model optimization
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Master Data Structures & Algorithms
-- ✅ Build AI-powered Full Stack Applications
-- ✅ Contribute to Open Source
-- ✅ Crack a Product-Based Software Engineer Role
+🥇 Hack India 2025 Participant
+
+🏅 Hacktoberfest CBIT Hackathon 2025 Participant
+
+🤖 Amazon ML Challenge 2025 Participant
+
+🎓 CGPA: **9.11 / 10**
+
+📚 Consistently maintained excellent academic performance
 
 ---
 
-# 📫 Connect With Me
+# 📜 Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Alteryx-Designer%20Core-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Python%20for%20Beginners-blueviolet?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👑 Leadership & Responsibilities
+
+### 🌟 Coordinator
+**Chaitanya Spandana – CBIT**
+
+- Organized student events and activities
+- Coordinated volunteers and event execution
+- Assisted in planning and team management
+
+---
+
+### 💰 Treasurer
+**NextIoT – CBIT**
+
+- Managed club finances
+- Budget planning and expense tracking
+- Coordinated with the organizing team
+
+---
+
+# 🏅 Extra-Curricular Activities
+
+🏏 Participated in **Intershruthi Sports (Cricket & Basketball)**
+
+🥇 **Shruthi Sports Women's Champion – 2026**
+
+💃 Flashmob Performer – **Shruthi Fest (2024, 2025, 2026)**
+
+🎤 Participant – **CBIT Model United Nations (MUN) 2026**
+
+---
+
+# 💻 Competitive Programming
+
+I enjoy solving Data Structures & Algorithms problems regularly to strengthen my problem-solving skills and coding proficiency.
+
+<p align="center">
+
+<a href="https://leetcode.com/u/manpreetkour_1o/">
+
+<img src="https://leetcard.jacoblin.cool/manpreetkour_1o?theme=dark&font=Poppins&ext=heatmap"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/manpreetkour_1o/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/ManpreetKour1o">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-Practicing-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge"/>
+
+</p>
+
+---
+# 🗺️ Learning Roadmap
+
+```text
+✔ Python Programming            ████████████████████ 100%
+✔ HTML & CSS                    ████████████████████ 100%
+✔ JavaScript                    ██████████████████░░ 90%
+✔ React.js                      █████████████████░░░ 85%
+✔ SQL                           █████████████████░░░ 85%
+✔ MongoDB                       ████████████████░░░░ 80%
+✔ Object-Oriented Programming   ████████████████░░░░ 80%
+✔ Data Structures               ███████████████░░░░░ 75%
+✔ Algorithms                    ██████████████░░░░░░ 70%
+✔ Cybersecurity                 ███████████████░░░░░ 75%
+✔ Machine Learning              █████████████░░░░░░░ 65%
+✔ Artificial Intelligence       ████████████░░░░░░░░ 60%
+✔ Blockchain                    ██████████░░░░░░░░░░ 50%
+✔ Cloud Computing               █████████░░░░░░░░░░░ 45%
+✔ DevOps                        ███████░░░░░░░░░░░░░ 35%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManpreetKour1o&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetKour1o&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ManpreetKour1o&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
 <a href="https://github.com/ManpreetKour1o">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/manpreet-kour-7560a2321/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:mpk100805@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/manpreetkour_1o/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManpreetKour1o&theme=tokyo-night"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
+# 📅 Contribution Calendar
 
-⭐️ Thanks for visiting my profile! ⭐️
+<p align="center">
 
-</h3>
+<img src="https://ghchart.rshah.org/409ba5/ManpreetKour1o" alt="GitHub Contribution Calendar"/>
+
+</p>
+
+---
+
+# 🌟 What I'm Working On
+
+- 🤖 AI-powered Healthcare Applications
+- 🌸 MELORA – AI Skincare Platform
+- 🔐 Cybersecurity & Ethical Hacking Projects
+- 📊 Machine Learning Applications
+- 🌐 Full Stack Web Development
+- 📱 React.js Projects
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Master React.js & Backend Development
+- ✅ Learn Cloud Computing (AWS)
+- ✅ Build Production-Level Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Participate in More Hackathons
+- ✅ Crack a Software Engineering Internship
+
+---
+
+# 💡 Areas of Interest
+
+🛡️ Cybersecurity
+
+🤖 Artificial Intelligence
+
+📊 Machine Learning
+
+🌐 Full Stack Development
+
+☁️ Cloud Computing
+
+📱 Web Development
+
+🔗 Blockchain
+
+📈 Data Science
+
+---
+
+# ❤️ Open Source
+
+I believe in learning by building and collaborating.
+
+I'm always open to:
+
+- 🚀 Open Source Contributions
+- 🤝 Collaboration on AI Projects
+- 💻 Full Stack Development
+- 🔐 Cybersecurity Research
+- 📊 Machine Learning Projects
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manpreet-kour-7560a2321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mpk100805@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/manpreetkour_1o/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/ManpreetKour1o">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Success doesn't come from what you do occasionally; it comes from what you do consistently."**
+
+---
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> ⚠️ To make the snake animation work, you'll need to add a GitHub Actions workflow later.
+
+---
+
+# 📌 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,mysql,mongodb,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📈 Coding Journey
+
+```text
+2023  ██████████ Started Engineering @ CBIT
+2024  ██████████████ Learned Python & Web Development
+2025  ██████████████████ AI/ML + Cybersecurity Internships
+2026  █████████████████████ Full Stack AI Projects & Leadership
+2027  ███████████████████████ Software Engineer 🚀
