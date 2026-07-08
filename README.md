@@ -271,6 +271,136 @@ I love solving real-world problems using AI and Cybersecurity while continuously
 ✔ Responsive and modern UI
 
 ---
+---
+
+## 🌿 Leaf Disease Detection Web Application
+
+**Python • Flask • TensorFlow • Keras • NumPy • Pillow • HTML • CSS • JavaScript**
+
+An AI-powered web application that identifies plant leaf diseases from uploaded images using a deep learning model. The system analyzes plant leaves, predicts diseases across **38 different classes**, and provides confidence scores along with treatment and prevention recommendations.
+
+### ✨ Key Features
+
+✔ Upload plant leaf images through a simple web interface
+
+✔ AI-powered disease prediction using TensorFlow/Keras
+
+✔ Supports **38 plant disease and healthy leaf classes**
+
+✔ Displays prediction confidence score
+
+✔ Provides disease description, treatment, and prevention guidance
+
+✔ Responsive Flask-based web application
+
+### 🌱 Supported Crops
+
+- Apple
+- Blueberry
+- Cherry
+- Corn
+- Grape
+- Orange
+- Peach
+- Pepper
+- Potato
+- Raspberry
+- Soybean
+- Squash
+- Strawberry
+- Tomato
+
+### 🛠 Tech Stack
+
+**Frontend**
+
+- HTML
+- CSS
+- JavaScript
+- Jinja2 Templates
+
+**Backend**
+
+- Python
+- Flask
+- Werkzeug
+
+**Artificial Intelligence**
+
+- TensorFlow
+- Keras
+
+**Image Processing**
+
+- NumPy
+- Pillow
+
+### ⚙ Project Workflow
+
+```text
+Leaf Image
+     │
+     ▼
+Upload Image
+     │
+     ▼
+Image Preprocessing
+     │
+     ▼
+TensorFlow/Keras Model
+     │
+     ▼
+Disease Prediction
+     │
+     ▼
+Disease Information Lookup
+     │
+     ▼
+Treatment & Prevention Guidance
+     │
+     ▼
+Result Display
+```
+
+### 📂 Project Architecture
+
+```
+Leaf Disease Detection
+│
+├── app.py
+├── predict.py
+├── model/
+│   └── leaf_model.keras
+├── utils/
+│   ├── preprocess.py
+│   └── disease_info.py
+├── templates/
+├── static/
+├── uploads/
+└── requirements.txt
+```
+
+### 🔍 How It Works
+
+- Upload a leaf image through the browser.
+- Flask validates and stores the uploaded image.
+- The image is resized to **224×224**, converted to RGB, normalized, and transformed into a batch tensor.
+- A trained **TensorFlow/Keras** model predicts one of **38 disease classes**.
+- The application retrieves disease-specific information, treatment suggestions, and prevention tips.
+- Results are displayed with the uploaded image, predicted disease, and confidence score.
+
+### 🚀 Core Technologies
+
+- Python
+- Flask
+- TensorFlow
+- Keras
+- NumPy
+- Pillow
+- HTML
+- CSS
+- JavaScript
+- Werkzeug
 
 ## ⚡ IoT-Based Human Energy Harvesting System
 
